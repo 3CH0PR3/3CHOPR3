@@ -10,9 +10,6 @@
 <p align="center">
   Me gusta codificar, diseñar, innovar y experimentar. Soy una persona entusiasta y sociable a la que le encanta asumir nuevos desafíos y aprender nuevas habilidades. Me encanta conocer gente nueva, intercambiar ideas y difundir conocimientos y positividad.
 </p>
-<br>
-<br>
-
 
 <div align="center">
   
@@ -20,6 +17,24 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/3CHOPR3?style=social) 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=3CHOPR3.repoName) <img src="https://komarev.com/ghpvc/?username=3CHOPR3" alt="3CHOPR3" />
 
+</div>
+
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BrantLauro&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&layout=compact" />
+</p>
+
+<Br>
+<h1>Some of my Projects! 🎨</h1>
+<div>
+  <p>
+    <a href="https://github.com/3CH0PR3/admin-panel.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=3CH0PR3&repo=admin-panel" alt="GitHub Stats" />
+    </a>
+    <!-- <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
+    </a> -->
+  </p>
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -44,31 +59,6 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
 </p>
-
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BrantLauro&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&layout=compact" />
-</p>
-
-💻 Soy un desarrollador web full stack
-🌱 Explorando conceptos de PNL y aprendizaje automático.
-🌟 Lenguajes principales: JavaScript, Python.
-🚀 Entusiasta por escribir scripts para automatización.
-🤔 Actualmente estoy abierto para: Trabajo o pasantía .
-
-
-<Br>
-<h1>Some of my Projects! 🎨</h1>
-<div>
-  <p>
-    <a href="https://github.com/3CH0PR3/admin-panel.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=3CH0PR3&repo=admin-panel" alt="GitHub Stats" />
-    </a>
-    <!-- <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
-    </a> -->
-  </p>
-</div>
 
 <h3 align="center">Connect with me:</h3>
 <div align=center>
