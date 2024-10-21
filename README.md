@@ -16,7 +16,6 @@
   <p>
     <a href="https://github.com/3CH0PR3/admin-panel.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=3CH0PR3&repo=admin-panel" alt="GitHub Stats" />
-
     </a>
     <!-- <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
