@@ -14,7 +14,18 @@
 <h1>Some of my Projects! 🎨</h1>
 <Br>
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=3CHOPR3&repo=admin-panel)](https://github.com/3CH0PR3/admin-panel)
+__Check out my GitHub repository:__
+
+<div>
+  <p>
+    <a href="https://github.com/Bhargavi-hash/HotelFranchiseDBMS.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
 
 
 <div align=center>
@@ -25,5 +36,5 @@
 </div>
 
 -----
-Credits: [Andres Jh'mndz](https://github.com/Austinae)
+Credits: [Andres Jh'mndz](https://github.com/3CHOPR3)
 Last Edited on: 5/10/2024
