@@ -12,10 +12,6 @@
 
 <Br>
 <h1>Some of my Projects! 🎨</h1>
-<Br>
-  
-__Check out my GitHub repository:__
-
 <div>
   <p>
     <a href="https://github.com/Bhargavi-hash/HotelFranchiseDBMS.git">
