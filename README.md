@@ -7,26 +7,7 @@
 <div align="center">
   
 ![GitHub followers](https://img.shields.io/github/followers/3CHOPR3?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/3CHOPR3?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=3CHOPR3.repoName) <img src="https://komarev.com/ghpvc/?username=3CHOPR3" alt="3CHOPR3" />
-
 </div>
-
-
-
-
-
-<Br>
-<h1>GitHub Stats! 📊</h1>
-<Br>
-
-[![Arya's github stats](https://github-readme-stats.vercel.app/api?username=3CHOPR3&show_icons=true&theme=merko)](https://github.com/3CHOPR3/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3CHOPR3&layout=compact&theme=merko)](https://github.com/3CHOPR3/github-readme-stats)
-
-
-
-
-
-
-
 
 
 <Br>
@@ -44,5 +25,5 @@
 </div>
 
 -----
-Credits: [Austinae](https://github.com/Austinae)
-Last Edited on: 23/12/2022
+Credits: [Andres Jh'mndz](https://github.com/Austinae)
+Last Edited on: 5/10/2024
