@@ -4,9 +4,17 @@
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Andres Jh'nmdz</h1>
 <h3 align="center">Developer FullStack | Technical Content Writer | Data Analysis Enthusiast</h3>
+
+<p align="center">
+  Me gusta codificar, diseñar, innovar y experimentar. Soy una persona entusiasta y sociable a la que le encanta asumir nuevos desafíos y aprender nuevas habilidades. Me encanta conocer gente nueva, intercambiar ideas y difundir conocimientos y positividad.
+</p>
+
 <div align="center">
   
-![GitHub followers](https://img.shields.io/github/followers/3CHOPR3?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/3CHOPR3?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=3CHOPR3.repoName) <img src="https://komarev.com/ghpvc/?username=3CHOPR3" alt="3CHOPR3" />
+![GitHub followers](https://img.shields.io/github/followers/3CHOPR3?style=social) 
+![GitHub User's stars](https://img.shields.io/github/stars/3CHOPR3?style=social) 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=3CHOPR3.repoName) <img src="https://komarev.com/ghpvc/?username=3CHOPR3" alt="3CHOPR3" />
+
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
